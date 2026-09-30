@@ -31,7 +31,7 @@ The **V2Ray Config Modifier** is an HTML and JavaScript-based application design
 
 1. **Clone or Download the Repository**
 
-   - Clone the repository with Git:
+   - Clone the repository with Git: 
 
      ```bash
      git clone https://github.com/seramo/v2ray-config-modifier.git
